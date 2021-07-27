@@ -1,4 +1,5 @@
-# StudyBottomNavigation(BottomNavionView + Navigation)
+# StudyBottomNavigation
+= BottomNavionView + Navigation
 
 ## 절차
 1) activity_main에 BottomNavigationView 추가
